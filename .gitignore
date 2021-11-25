@@ -9,3 +9,8 @@ MANIFEST
 venv/
 .vscode/
 src/
+test/
+test*
+*.bak
+*.old
+*old.*
