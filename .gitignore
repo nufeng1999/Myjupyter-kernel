@@ -9,6 +9,7 @@ MANIFEST
 venv/
 .vscode/
 src/
+plugins/src
 test/
 test*
 *.bak
